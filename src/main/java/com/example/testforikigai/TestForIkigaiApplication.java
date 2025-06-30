@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TestForIkigaiApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TestForIkigaiApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(TestForIkigaiApplication.class, args);
+    }
 
 }
